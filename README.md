@@ -1,0 +1,1 @@
+WIP. Attempt to convert a client's G-Suite of Apps Script and Sheets into a full-blown full-stack app. Management changed so the client decided not to pursue further. Discontinued until further notice.
